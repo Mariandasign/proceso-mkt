@@ -1,0 +1,144 @@
+# proceso-mkt
+
+# Clientes Potenciales - Estrategia de Captación
+
+## Directores de Operaciones
+- **Características:**
+  - **Intereses:**
+    - Optimización y reducción de costos
+    - Eficiencia en tiempos de despacho
+    - Automatización de procesos aduanales
+  - **Necesidades:**
+    - Herramientas de control y monitoreo
+    - Reducción de errores operativos
+    - Cumplimiento normativo sin fricciones
+  - **Frustraciones:**
+    - Procesos manuales que generan retrasos
+    - Falta de integración entre sistemas
+    - Falta de visibilidad en tiempo real
+- **Canales de Captación:**
+  - **LinkedIn**
+    - Casos de éxito en digitalización
+    - Artículos sobre eficiencia operativa
+    - Publicaciones de networking con expertos
+  - **Webinars**
+    - Tendencias en automatización aduanal
+    - Casos de transformación digital aplicada
+  - **Revistas digitales**
+    - T21, Logística 360
+    - Foros especializados en comercio exterior
+  - **Eventos y conferencias**
+    - Expos Logísticas y Aduanales
+    - Foros empresariales de digitalización
+
+## CIOs / Transformación Digital
+- **Características:**
+  - **Intereses:**
+    - Innovación y automatización
+    - Integración de sistemas de TI
+    - Ciberseguridad en la cadena de suministro
+  - **Necesidades:**
+    - Justificación de ROI en nuevas tecnologías
+    - Reducción de fricciones en adopción de software
+    - Interoperabilidad entre plataformas
+  - **Frustraciones:**
+    - Resistencia al cambio dentro de la empresa
+    - Falta de presupuesto o apoyo directivo
+    - Problemas con la integración de sistemas antiguos
+- **Canales de Captación:**
+  - **LinkedIn**
+    - Artículos de transformación digital
+    - Whitepapers sobre integración de sistemas
+  - **Foros de tecnología**
+    - CIO.com, Stack Overflow
+    - DevOps communities
+  - **Conferencias digitales y presenciales**
+    - Eventos de transformación digital en logística
+    - Summit de innovación tecnológica
+  - **Videos técnicos en YouTube**
+    - Implementación de sistemas en logística
+    - Casos de éxito con IA y automatización
+
+## Gerentes de Operaciones
+- **Características:**
+  - **Intereses:**
+    - Ejecución y monitoreo en tiempo real
+    - Reducción de errores en procesos
+    - Cumplimiento normativo sin contratiempos
+  - **Necesidades:**
+    - Herramientas de control para minimizar fallos
+    - Rápida toma de decisiones basada en datos
+    - Integración de procesos internos con tecnología
+  - **Frustraciones:**
+    - Falta de automatización en tareas críticas
+    - Problemas de documentación y trazabilidad
+    - Dependencia de sistemas desactualizados
+- **Canales de Captación:**
+  - **WhatsApp Business**
+    - Mensajes con consejos prácticos
+    - Notificaciones sobre cambios normativos
+  - **Videos cortos en YouTube y TikTok**
+    - Tutoriales sobre optimización operativa
+    - Casos reales de digitalización
+  - **Checklists descargables y guías interactivas**
+    - Guías de cumplimiento aduanal
+    - Optimización del flujo de trabajo en almacenes
+  - **Eventos de formación en comercio exterior**
+    - Webinars de procesos aduanales eficientes
+    - Workshops sobre transformación digital
+
+## Directores de IT
+- **Características:**
+  - **Intereses:**
+    - Estabilidad y seguridad en sistemas
+    - Modernización de plataformas heredadas
+    - Infraestructura en la nube y SaaS
+  - **Necesidades:**
+    - Reducción de costos en infraestructura
+    - Implementación de sistemas escalables
+    - Migración a plataformas digitales con bajo riesgo
+  - **Frustraciones:**
+    - Dependencia de sistemas obsoletos
+    - Falta de recursos para modernizar IT
+    - Problemas de compatibilidad con software heredado
+- **Canales de Captación:**
+  - **Foros especializados en IT**
+    - Stack Overflow, DevOps communities
+    - Grupos de TI en logística y comercio exterior
+  - **Webinars de ciberseguridad y cloud computing**
+    - Casos de éxito en transformación digital
+    - Estrategias de migración a la nube
+  - **LinkedIn**
+    - Publicaciones técnicas sobre TI en logística
+    - Networking con otros directores de IT
+  - **Plataformas de formación**
+    - Coursera, Udemy, IBM Academy
+    - Cursos de automatización e integración
+
+## Propietarios de Agencias Aduanales
+- **Características:**
+  - **Intereses:**
+    - Crecimiento y rentabilidad
+    - Digitalización para mejorar márgenes
+    - Diferenciación frente a la competencia
+  - **Necesidades:**
+    - Soluciones escalables con impacto financiero
+    - Mejor control de la operación con tecnología
+    - Mayor eficiencia en tiempos de despacho
+  - **Frustraciones:**
+    - Dificultad para encontrar proveedores confiables
+    - Falta de conocimiento sobre digitalización
+    - Alta competencia y necesidad de innovación
+- **Canales de Captación:**
+  - **LinkedIn y Facebook**
+    - Casos de éxito de digitalización en agencias aduanales
+    - Publicaciones sobre beneficios de la transformación digital
+  - **Videos explicativos en YouTube**
+    - Cómo la digitalización mejora la rentabilidad
+    - Entrevistas con empresarios del sector
+  - **Consultorías personalizadas y demostraciones**
+    - Sesiones estratégicas sobre modernización
+    - Talleres de digitalización para agencias aduanales
+  - **Eventos empresariales y networking**
+    - Ruedas de negocio en el sector aduanal
+    - Ferias de tecnología aplicada a logística
